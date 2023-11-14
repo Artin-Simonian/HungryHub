@@ -7,6 +7,10 @@ body{
 .auth-btn{
     color: #000;
     background-color: #fff;
+    margin: 10px 0;
+}
+
+.AuthPage{
     text-align: center;
 }
 
